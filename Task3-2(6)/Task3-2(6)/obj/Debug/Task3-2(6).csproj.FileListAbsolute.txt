@@ -1,0 +1,9 @@
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\bin\Debug\Task3-2(6).exe.config
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\bin\Debug\Task3-2(6).exe
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\bin\Debug\Task3-2(6).pdb
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3_2_6_.MainForm.resources
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3_2_6_.Properties.Resources.resources
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3-2(6).csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3-2(6).csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3-2(6).exe
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task3-2(6)\Task3-2(6)\obj\Debug\Task3-2(6).pdb

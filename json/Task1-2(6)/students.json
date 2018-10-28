@@ -1,0 +1,20 @@
+﻿{
+  "version": 2,
+  "student": [
+    {
+      "_name": "Olga",
+      "_group": "1",
+      "_age": "18"
+    },
+    {
+      "_name": "Nikita",
+      "_group": "2",
+      "_age": "19"
+    },
+    {
+      "_name": "Pavel",
+      "_group": "7",
+      "_age": "20"
+    }
+  ]
+}

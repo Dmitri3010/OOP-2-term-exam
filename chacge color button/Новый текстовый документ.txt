@@ -1,0 +1,36 @@
+int count; // переменная для выбора в switch
+ cout << "Vibirite deistvie: 1-добавить в бинарный файл; 2-читать из бинарного файла; 3-закрыть программу: ";
+  cin >> count;
+  switch (count) // начало оператора switch
+  {
+     case 1: // если count = 1
+     {
+    cin >> count;
+  std::string name;
+std::string name;
+    std::cout << "Input your name: ";
+    std::cin >> name;
+std::cout << "Input your surname: ";
+    std::cin >> surname; // выполнить сложение
+     break;
+     }
+     case 2: // если count = 2
+     {
+     cout << a << " - " << b << " = " << a - b << endl; // выполнить вычитание
+     break;
+     }
+     case 3: // если count = 3
+     {
+     cout << a << " * " << b << " = " << a * b << endl; // выполнить умножение
+     break;
+     }
+     case 4: // если count = 4
+     {
+     cout << a << " / " << b << " = " << a / b << endl; // выполнить деление
+     break;
+     }
+     default: // если count равно любому другому значению
+     cout << "Nepravilni vvod" << endl;
+     }
+ system("pause");
+ return 0;

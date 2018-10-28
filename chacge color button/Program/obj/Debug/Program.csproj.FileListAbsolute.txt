@@ -1,0 +1,45 @@
+D:\C#\_EXAM\SEM2\5\Program\Program\bin\Debug\Program.exe.config
+D:\C#\_EXAM\SEM2\5\Program\Program\bin\Debug\Program.exe
+D:\C#\_EXAM\SEM2\5\Program\Program\bin\Debug\Program.pdb
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\MainWindow.g.cs
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\App.g.cs
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program_MarkupCompile.cache
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program_MarkupCompile.lref
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\MainWindow.baml
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.g.resources
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.exe
+D:\C#\_EXAM\SEM2\5\Program\Program\obj\Debug\Program.pdb
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\bin\Debug\Program.exe
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\bin\Debug\Program.pdb
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\MainWindow.g.cs
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\App.g.cs
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\MainWindow.baml
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.g.resources
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.exe
+C:\Users\Dasha\Downloads\SEM2\5\Program\Program\obj\Debug\Program.pdb
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\bin\Debug\Program.exe.config
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\bin\Debug\Program.exe
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\bin\Debug\Program.pdb
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\MainWindow.g.cs
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\App.g.cs
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program_MarkupCompile.cache
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program_MarkupCompile.lref
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\MainWindow.baml
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.g.resources
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.exe
+D:\Fit\4-ый семестр\ООП\экзамен\WPF\Program\Program\obj\Debug\Program.pdb

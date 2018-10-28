@@ -1,0 +1,9 @@
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\bin\Debug\Win.exe.config
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\bin\Debug\Win.exe
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\bin\Debug\Win.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.Form1.resources
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.Properties.Resources.resources
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.csproj.GenerateResource.Cache
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.exe
+E:\Учёба\2 курс\2 semester\OOP2\Exam\Win\obj\Debug\Win.pdb

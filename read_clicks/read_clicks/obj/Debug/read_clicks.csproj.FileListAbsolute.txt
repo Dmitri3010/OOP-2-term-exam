@@ -1,0 +1,15 @@
+C:\Users\Dima\source\repos\read_clicks\read_clicks\bin\Debug\read_clicks.exe.config
+C:\Users\Dima\source\repos\read_clicks\read_clicks\bin\Debug\read_clicks.exe
+C:\Users\Dima\source\repos\read_clicks\read_clicks\bin\Debug\read_clicks.pdb
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.csprojResolveAssemblyReference.cache
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\App.g.cs
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks_MarkupCompile.cache
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks_MarkupCompile.lref
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\MainWindow.baml
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.g.resources
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.Properties.Resources.resources
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.csproj.GenerateResource.Cache
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.exe
+C:\Users\Dima\source\repos\read_clicks\read_clicks\obj\Debug\read_clicks.pdb

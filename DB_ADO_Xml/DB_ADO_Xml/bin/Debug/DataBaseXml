@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Planet>Earth</Planet>
+    <Radius>40000</Radius>
+    <Speed>24000</Speed>
+  </Table>
+  <Table>
+    <Planet>mars</Planet>
+    <Radius>20000</Radius>
+    <Speed>12000</Speed>
+  </Table>
+  <Table>
+    <Planet>Mercury</Planet>
+    <Radius>10000</Radius>
+    <Speed>20000</Speed>
+  </Table>
+  <Table>
+    <Planet>Pluton</Planet>
+    <Radius>20000</Radius>
+    <Speed>10000</Speed>
+  </Table>
+</NewDataSet>

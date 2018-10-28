@@ -1,0 +1,9 @@
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\bin\Debug\Task4(1).exe.config
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\bin\Debug\Task4(1).exe
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\bin\Debug\Task4(1).pdb
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4_1_.MainForm.resources
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4_1_.Properties.Resources.resources
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4(1).csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4(1).csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4(1).exe
+C:\Users\Dima\Desktop\2-kurs-master\Labs\2 sem\Экзамен\Task4(1)\Task4(1)\obj\Debug\Task4(1).pdb
